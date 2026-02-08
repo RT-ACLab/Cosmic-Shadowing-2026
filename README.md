@@ -27,3 +27,8 @@ Files
 Tsuchida_Cosmic_Shadowing_2026.pdf: Main Paper 
 
 Tsuchida_Cosmic_Shadowing_2026.pdf.ots: OpenTimestamps proof
+
+
+著作権と利用規約 (Copyright & License) 本論文の著作権は R. Tsuchida に帰属します。内容の改ざんを禁じます。引用の際は必ず出典（本GitHubリポジトリ）を明記してください。商用利用については事前に著者の承諾が必要です。
+
+Copyright © 2026 R. Tsuchida. All rights reserved. Reproduction or modification without permission is prohibited.
