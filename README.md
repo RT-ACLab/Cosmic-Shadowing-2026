@@ -17,10 +17,13 @@ Unified Field Theory of Cosmic Shadowing: Gravity as an Emergent Phenomenon (202
 Abstract (English)This repository hosts the "Unified Field Theory of Cosmic Shadowing" (February 2026).
 
 Core Concept: Gravity is defined as a pressure differential caused by "shielding" from isotropic cosmic background energy, rather than an inherent attraction between masses.
+
 Resolution of Singularities: Through "pressure saturation," this model eliminates the infinity problem in black holes, suggesting they are finite-density "saturated shadows".
 
 Eliminating Dark Matter/Energy: Galactic dynamics and cosmic expansion are effectively explained by external pressure gradients, aligning with 2025-2026 observational data from Euclid and GWB observations.
 
 Files
+
 Tsuchida_Cosmic_Shadowing_2026.pdf: Main Paper 
+
 Tsuchida_Cosmic_Shadowing_2026.pdf.ots: OpenTimestamps proof
